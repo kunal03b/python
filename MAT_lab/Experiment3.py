@@ -1,3 +1,6 @@
+# 7 oct
+
+
 import matplotlib.pyplot as plt
 import numpy as np
 x = np.linspace(-10,30,10)
