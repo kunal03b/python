@@ -1,8 +1,6 @@
 #write a program to compute mean median mode and standard deviation of the given data using python.
-from tkinter import N
-from numpy import sort
 
-from macpath import join
+import statistics
 #----------------------------------------------------------------Mean------------------------------------------------------------------------
 x = [1,2,3,4,5,6,7]
 Add = 1+2+3+4+5+6+7
